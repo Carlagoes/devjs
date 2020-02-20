@@ -11,4 +11,4 @@ HTML, CSS, JavaScript, Nodejs e SQL.
 <li>Nodejs</li>
 <li>SQL (PostgreSQL - Postbird)</li>
 
-![](img src=https://github.com/Carlagoes/devjs/blob/master/ProjetoDoe.png)
+<img src="https://github.com/Carlagoes/devjs/blob/master/ProjetoDoe.png">
